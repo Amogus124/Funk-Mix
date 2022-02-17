@@ -1,18 +1,18 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["mushroom-plains", "mario", [146, 113, 253]],
+		["bricks-and-lifts", "mario", [146, 113, 253]],
+		["lethal-lava-lair", "mario", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "stage",
+	"weekBackground": "mario",
 
-	"storyName": "Daddy Dearest",
+	"storyName": "funk mix",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,

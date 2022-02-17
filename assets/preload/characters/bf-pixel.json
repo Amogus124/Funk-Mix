@@ -9,7 +9,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF IDLE"
+			"name": "idle"
 		},
 		{
 			"loop": false,
@@ -30,7 +30,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "BF LEFT NOTE",
+			"name": "left0",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "BF UP NOTE",
+			"name": "up0",
 			"indices": []
 		},
 		{
@@ -63,7 +63,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "BF RIGHT NOTE",
+			"name": "right0",
 			"indices": []
 		},
 		{
@@ -85,7 +85,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "BF DOWN NOTE",
+			"name": "down0",
 			"indices": []
 		},
 		{
@@ -101,12 +101,12 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/bf-pixel",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf-pixel",
+	"healthicon": "bf-mario",
 	"flip_x": true,
 	"healthbar_colors": [
 		123,
@@ -114,8 +114,8 @@
 		246
 	],
 	"camera_position": [
-		50,
-		-60
+		140,
+		-100
 	],
 	"sing_duration": 4,
 	"scale": 6
